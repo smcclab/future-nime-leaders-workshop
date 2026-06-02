@@ -15,6 +15,7 @@ title-slide-attributes:
 - TODO: framing — the missing parts of our community
 - New activities / roles / groups / resources that don't exist yet
 - Today's unknowns could become tomorrow's *core* NIME
+- NIME has been challenged to look outward and confront what it leaves out [@nime2020_31; @nime2020_83]
 
 ## A challenge from the keynote {background-image="img/nime2025-theatre-keynote.jpg" background-size="cover"}
 
@@ -43,6 +44,7 @@ title-slide-attributes:
 
 - TODO: turn an idea into an idea + a mandate + a first step
 - Who, what, when — the smallest viable launch
+- It's been done before: the Eco committee + Eco Wiki [@nime2021_24] and WiNIME [@nime2018_Xambó] started exactly this way
 
 ## Boldly launch {background-image="img/nime2017-stage.jpg" background-size="cover"}
 

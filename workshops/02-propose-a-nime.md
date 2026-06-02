@@ -17,6 +17,13 @@ author: NIME Leaders Workshop Facilitators
 - TODO: link sheet — proposal template + cookbook (see resources page)
 - TODO: optional: example proposal (NIME 2025) for reference
 
+## Background reading
+
+- Organiser reflections, official hosting guidance, and the proposal template
+  are collected in `resources/01-organiser-reflections.md`
+- Includes host retrospectives (incl. Charles Martin on NIME2025) and the
+  Steering Committee's "Note on future NIMEs"
+
 ## Plan for the session (~50m)
 
 1. Provocation + template/cookbook intro (`lectures/02-propose-a-nime`) (~Xm)

@@ -39,4 +39,10 @@ author: NIME Leaders Workshop Facilitators
 - TODO: have a board/committee member ready to speak to each role
 - Watch for: people underestimating that their help is wanted
 
+## Background reading
+
+- The shape and history of the community in numbers [@nime2021_1] and the toolkit behind it [@nime2022_16]
+- What "community" means in NIME [@nime2015_amarquezborbon]
+- Where committees come from — gender balance and WiNIME [@nime2018_Xambó]
+
 ## References

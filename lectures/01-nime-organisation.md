@@ -14,6 +14,8 @@ title-slide-attributes:
 
 - TODO: framing — help is always needed; many ways to lead
 - Goal of this session: not just info — find where YOU fit
+- "Community" in NIME is a community *of practice*, not just an audience [@nime2015_amarquezborbon]
+- 20 years of growth, breadth, and turnover — the numbers [@nime2021_1]
 
 ## The roles map (overview)
 
@@ -28,6 +30,7 @@ title-slide-attributes:
 
 - TODO: list committees (Diversity, Ethics, Ecology, WiNIME, LATAM Network, …)
 - What committee work looks like; how to get involved
+- Committees often start as research + advocacy: e.g. WiNIME grew from work on gender balance [@nime2018_Xambó]
 
 ## The forum & mailing list
 
@@ -45,6 +48,7 @@ title-slide-attributes:
 ## Other volunteer & support roles
 
 - TODO: continuity officer, proceedings officer, web, archives, ad-hoc initiatives
+- The archive is a community asset that someone maintains — and that we can study [@nime2021_1; @nime2022_16]
 
 ## Where do you see yourself? {background-image="img/nime2024-dinner-event.jpg" background-size="cover"}
 

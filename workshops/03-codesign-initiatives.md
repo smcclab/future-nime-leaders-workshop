@@ -45,4 +45,9 @@ author: NIME Leaders Workshop Facilitators
 - TODO: keep ideation open before steering to feasibility
 - Capture ideas even if no one commits — feed back to the board / committees
 
+## Background reading
+
+- Calls to imagine NIME's future and confront its blind spots [@nime2020_31; @nime2020_83]
+- Initiatives that went from idea to reality: ecology [@nime2021_24] and WiNIME [@nime2018_Xambó]
+
 ## References
