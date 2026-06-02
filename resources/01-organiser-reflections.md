@@ -48,8 +48,11 @@ and shares its diverse outputs (papers, code, hardware, performances). A good
 model for Session 3 of *how an initiative is launched and maintained* over years,
 and useful background for the proceedings/archive roles in Session 1.
 
-- **NIMEHub** (2016) — the start of the lineage; explored a shared repository
-  for NIME outputs. Referenced as prior work in the later posts below.
+- **NIMEhub: Toward a Repository for Sharing and Archiving Instrument Designs**
+  (2016) — the start of the lineage. McPherson, Berdahl, Lyons, Jensenius,
+  Bukvic & Knudsen propose a community database for digital musical instrument
+  designs, tackling reproducibility and the role of custom hardware. (Facilitator
+  Andrew McPherson is lead author.) <http://hdl.handle.net/10919/106438>
 - **Alexander Refsum Jensenius — "Workshop: Open NIME"** (7 Jun 2019, NIME 2019,
   Porto Alegre) — with co-organisers from QMUL, NTNU, Aalborg, IRCAM, Virginia
   Tech, Goldsmiths and UFRGS. On transparency and access: CC-BY licensing, open
