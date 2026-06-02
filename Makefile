@@ -92,7 +92,7 @@ HTML_OPTS = -V mainfont="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI
 all: reveal beamer assessments resources workshops images index
 
 .PHONY: public
-public: reveal beamer assessments workshops images index
+public: reveal beamer assessments workshops resources images index
 
 .PHONY: html
 html: reveal assessments resources workshops images index

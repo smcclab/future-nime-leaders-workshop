@@ -75,8 +75,3 @@ and useful background for the proceedings/archive roles in Session 1.
 - **Alexander Refsum Jensenius — "Running a hybrid conference"** (27 Jun 2021) —
   practical notes on hybrid format (written about the RPPW workshop, so adjacent
   to NIME rather than about it directly). <https://www.arj.no/2021/06/27/hybrid-conference/>
-
-::: {.info-box}
-**Note:** This page is part of the `resources/` set, which is excluded from the
-published website (`make public`). It is intended as facilitator prep material.
-:::

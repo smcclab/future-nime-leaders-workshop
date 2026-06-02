@@ -75,7 +75,7 @@ Requires: `pandoc`, a TeX environment (e.g., MacTeX or TeX Live), `sass`, `pytho
 ```
 make all      # Build everything
 make html     # HTML only (faster, skips Beamer PDFs)
-make public   # Like 'all' but excludes resources (used by CI)
+make public   # Same build set as 'all'; the target used by CI
 make clean    # Remove the build/ output directory
 ```
 
@@ -85,7 +85,7 @@ See the Makefile for additional targets (`reveal`, `beamer`, `assessments`, `wor
 
 Two GitHub Actions workflows are included:
 
-- **Deploy** (`.github/workflows/deploy.yml`) — runs `make public` on push to `main` and deploys the `build/` directory to GitHub Pages. Uses build caching and restored file modification times for incremental builds (only changed files are rebuilt). The `public` target excludes `resources/`, making them suitable for internal or staff-only materials.
+- **Deploy** (`.github/workflows/deploy.yml`) — runs `make public` on push to `main` and deploys the `build/` directory to GitHub Pages. Uses build caching and restored file modification times for incremental builds (only changed files are rebuilt). The `public` target now builds the same set as `all`, including `resources/`, so resource pages are published to the website.
 - **PR Build Check** (`.github/workflows/pr-build.yml`) — runs `make public` on every pull request to `main` and uploads the result as a build artifact, so you can verify the build before merging.
 
 ## VS Code Integration

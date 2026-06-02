@@ -18,7 +18,7 @@ Requires: `pandoc`, a TeX environment (MacTeX or TeX Live), `sass`, `python3`, a
 | Command | Output |
 |---|---|
 | `make all` | Everything: reveal, beamer, assessments, resources, workshops, images, index |
-| `make public` | Like `all` but excludes resources (used by CI/GitHub Actions) |
+| `make public` | Same build set as `all` (used by CI/GitHub Actions) |
 | `make html` | HTML only: reveal + assessments + workshops + resources |
 | `make reveal` | Reveal.js HTML for lectures only |
 | `make beamer` | Beamer PDF for lectures only |
@@ -88,4 +88,4 @@ VS Code is configured (`.vscode/settings.json`) to run `make all` on every markd
 
 ## CI / Deployment
 
-GitHub Actions (`.github/workflows/deploy.yml`) runs `make public` on push to `main` using the `pandoc/latex:3.7.0.1` Docker image and deploys the `build/` directory to GitHub Pages. The `public` target excludes `resources/` (those are not published). A second workflow (`.github/workflows/pr-build.yml`) runs `make public` on every PR to `main` and uploads the result as a build artifact for pre-merge verification.
+GitHub Actions (`.github/workflows/deploy.yml`) runs `make public` on push to `main` using the `pandoc/latex:3.7.0.1` Docker image and deploys the `build/` directory to GitHub Pages. The `public` target builds the same set as `all`, including `resources/`, so resource pages are published. A second workflow (`.github/workflows/pr-build.yml`) runs `make public` on every PR to `main` and uploads the result as a build artifact for pre-merge verification.
