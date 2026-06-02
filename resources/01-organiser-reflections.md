@@ -11,11 +11,23 @@ paper on hosting NIME, so this collects first-hand reflections, official
 guidance, and community discussion from previous organisers. Several sources are
 by workshop facilitators (Charles Martin, Fabio Morreale).
 
-## First-hand host retrospectives
+## First-hand host & chair reflections
 
 - **Charles Martin — "On hosting NIME2025 in Canberra"** (6 Feb 2026). A
   general chair's reflection on what NIME2025 (ANU, Canberra) produced, what was
   achieved, and who made it happen. <https://charlesmartin.au/blog/2026/02/06/on-hosting-nime2025-in-canberra>
+- **Ivica Ico Bukvic — "NIME 2018"** (2018). A general chair's retrospective on
+  bringing NIME 2018 to Virginia Tech after a competitive bid: ~250 participants
+  from 27 countries, a ~$120K budget (≈70% from registration), diversity efforts
+  (keynote line-up, Women in Music Technology), and reflections on nurturing a
+  large volunteer-run committee across institutions. The most concrete look at
+  the *realities* (budget, logistics) on this list. <https://ico.bukvic.net/main/nime-2018/>
+- **Courtney N. Reed — NIME / CHIME 2024 reflection** (3 Dec 2024). Facilitator
+  Courtney Reed reflects on serving as **Paper Chair** (with Astrid Bin) at NIME
+  2024 Utrecht — "the amount of passion, labour, and dedication that go into
+  conferences" — alongside her own presentations. Useful for the chair-role
+  perspective (mostly participation, with a paper-chair reflection).
+  <https://www.courtneynreed.com/blog/2024/nimechime/>
 
 ## Official guidance for prospective hosts
 

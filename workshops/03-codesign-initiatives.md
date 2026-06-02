@@ -47,7 +47,7 @@ author: NIME Leaders Workshop Facilitators
 
 ## Background reading
 
-- Calls to imagine NIME's future and confront its blind spots [@nime2020_31; @nime2020_83]
+- Calls to imagine NIME's future and confront its blind spots [@nime2020_31; @nime2020_83] (expanded journal version: [@hayes2020comj])
 - Initiatives that went from idea to reality: ecology [@nime2021_24] and WiNIME [@nime2018_Xambó]
 
 ## References

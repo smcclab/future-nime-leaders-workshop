@@ -43,6 +43,7 @@ author: NIME Leaders Workshop Facilitators
 
 - The shape and history of the community in numbers [@nime2021_1] and the toolkit behind it [@nime2022_16]
 - What "community" means in NIME [@nime2015_amarquezborbon]
+- NIME's pre-2001 roots in earlier computer-music research [@nime2023_8]
 - Where committees come from — gender balance and WiNIME [@nime2018_Xambó]
 
 ## References

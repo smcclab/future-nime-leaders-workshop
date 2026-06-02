@@ -16,6 +16,7 @@ title-slide-attributes:
 - Goal of this session: not just info — find where YOU fit
 - "Community" in NIME is a community *of practice*, not just an audience [@nime2015_amarquezborbon]
 - 20 years of growth, breadth, and turnover — the numbers [@nime2021_1]
+- …and the roots go back further: musical-interface research well before 2001 [@nime2023_8]
 
 ## The roles map (overview)
 
