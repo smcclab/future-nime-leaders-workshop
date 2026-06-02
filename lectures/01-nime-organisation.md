@@ -8,7 +8,7 @@ title-slide-attributes:
 
 <!-- OUTLINE ONLY — slide structure + stubs. Fill prose once shape is agreed. -->
 
-# How NIME actually works
+# How NIME actually works {background-image="img/nime2016-opening.jpg" background-size="cover"}
 
 ## NIME is a volunteer community
 
@@ -46,7 +46,7 @@ title-slide-attributes:
 
 - TODO: continuity officer, proceedings officer, web, archives, ad-hoc initiatives
 
-## Where do you see yourself?
+## Where do you see yourself? {background-image="img/nime2024-dinner-event.jpg" background-size="cover"}
 
 ::: {.talk-box}
 **Talk:** TODO — reflection prompt: which role(s) interest you now / in future? What would you bring? (links to the class-plan activity)

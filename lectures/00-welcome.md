@@ -8,7 +8,7 @@ title-slide-attributes:
 
 <!-- OUTLINE ONLY — slide structure + stubs. Fill prose once shape is agreed. -->
 
-# Welcome
+# Welcome {background-image="img/nime2025-foyer-socialising.jpg" background-size="cover"}
 
 ## Why you're here
 

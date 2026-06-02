@@ -2,13 +2,13 @@
 title: "So, You Want to Propose a NIME…"
 author: NIME Leaders Workshop Facilitators
 title-slide-attributes:
-  data-background-image: img/nime-town-hall.jpg
+  data-background-image: img/nime2025-concert-hall.jpg
   data-background-size: cover
 ---
 
 <!-- OUTLINE ONLY — slide structure + stubs. Fill prose once shape is agreed. -->
 
-# The provocation
+# The provocation {background-image="img/nime2025-theatre-preparations.jpg" background-size="cover"}
 
 ## A phone call…
 
@@ -39,7 +39,7 @@ title-slide-attributes:
 - TODO: common myths vs reality
 - What's already provided behind the scenes vs what hosts must find
 
-## The realities
+## The realities {background-image="img/nime2025-streaming-rig.jpg" background-size="cover"}
 
 - TODO: finances · bureaucracy · spaces · resources · institutional support
 - Balancing nice-to-haves against constraints

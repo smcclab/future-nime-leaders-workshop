@@ -2,13 +2,13 @@
 title: "Co-Designing Unknown NIME Initiatives"
 author: NIME Leaders Workshop Facilitators
 title-slide-attributes:
-  data-background-image: img/nime-leaders-workshop.jpg
+  data-background-image: img/nime2025-making-posters.jpg
   data-background-size: cover
 ---
 
 <!-- OUTLINE ONLY — slide structure + stubs. Fill prose once shape is agreed. -->
 
-# What's missing from NIME?
+# What's missing from NIME? {background-image="img/nime2025-installation.jpg" background-size="cover"}
 
 ## Speculating on the gaps
 
@@ -16,7 +16,7 @@ title-slide-attributes:
 - New activities / roles / groups / resources that don't exist yet
 - Today's unknowns could become tomorrow's *core* NIME
 
-## A challenge from the keynote
+## A challenge from the keynote {background-image="img/nime2025-theatre-keynote.jpg" background-size="cover"}
 
 - TODO: reference Clare Cooper's NIME 2025 keynote
 - Three questions to hold throughout:
@@ -44,7 +44,7 @@ title-slide-attributes:
 - TODO: turn an idea into an idea + a mandate + a first step
 - Who, what, when — the smallest viable launch
 
-## Boldly launch
+## Boldly launch {background-image="img/nime2017-stage.jpg" background-size="cover"}
 
 - TODO: closing — share commitments; connect to forum `future-leaders` group + wrap-up
 
