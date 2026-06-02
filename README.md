@@ -1,4 +1,45 @@
-# Pandoc Course Template
+# Future NIME Leaders Workshop
+
+This workshop aims to surface future NIME leaders. We will introduce these people to the practicalities of organising NIME and in-between NIME activities, and co-design future NIME initiatives and conference plans.
+We interpret NIME leaders broadly and inclusively to mean anybody who is ready (now or in the future) to contribute to our community beyond conference submissions and reviews. Leadership contributions could entail becoming a metareviewer, leading initiatives, being active on the NIME forum, volunteering as a future conference chair, aspiring to host a future NIME, supporting or organising committees, running for election to the board, or imagining new NIME activities that nobody has thought of before! 
+We are looking for future leaders with energy and enthusiasm at all career stages and from all backgrounds. 
+Workshop facilitators will include former NIME chairs and members of the NIME board.
+Be careful about walking in the door---you will very likely walk out with a new job (and also a lot of new friends)!
+
+## About this Repository
+
+This repo contains the workshop materials for the NIME leaders workshop, which is going to be:
+
+- lectures: a short slide deck for each session to introduce speakers and orient the session
+- workshops: a "class plan" for each session which will indicate the goals for the session and specifically what participants and facilitators should be doing with target times marked.
+- assessments: not used in this workshop, so can be empty.
+- resources: may be used to include some further resources (e.g., example NIME planning documents, schedule or budget information).
+
+## References
+
+- The workshop application, facilitators and structure is specified in `_drafts/2026_application`
+- NIME conference proposal template: <https://github.com/nime-conference/nime-hosting-proposal-template/>
+- NIME cookbook (may have some out-of-date sections): <https://github.com/NIME-conference/NIME-cookbook>
+- NIME reviewer guidelines: <https://github.com/NIME-conference/NIME-reviewing-guide>
+- Example NIME 2025 conference proposal: <https://github.com/smcclab/nime2025-proposal-example>
+- NIME main organisation website: <https://github.com/NIME-conference/NIME-website>
+- NIME 2025 website: <https://github.com/NIME-conference/nime2025-website>
+- Academic Org Theme: <https://github.com/smcclab/academic-org-theme> for making reproducible static websites for NIME.
+- NIME Forum: <https://forum.nime.org>
+
+## Learning Outcomes
+
+At the end of the session participants will:
+
+TODO, fill out clear learning outcomes to guide the materials a bit.
+
+e.g.,:
+
+- Have a NIME forum account and belong to the `future-leaders` group.
+
+## Template Information
+
+The rest of the readme explains how this course material template works.
 
 A template for developing course materials (lectures, workshops, assessments, resources) in Markdown and building them into HTML presentations (reveal.js) and PDFs (Beamer/LaTeX) using pandoc.
 
