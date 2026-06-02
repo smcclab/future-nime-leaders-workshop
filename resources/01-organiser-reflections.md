@@ -3,11 +3,13 @@ title: "Organiser Reflections — Hosting & Running NIME"
 author: NIME Leaders Workshop Facilitators
 ---
 
-Background reading for **Session 2 — "So, you want to propose a NIME…"**. There
-is no single proceedings paper on hosting NIME, so this collects first-hand
-reflections, official guidance, and community discussion from previous
-organisers. Two of the sources below are by workshop facilitators (Charles
-Martin, Fabio Morreale).
+Background reading mainly for **Session 2 — "So, you want to propose a NIME…"**,
+with a back-end/infrastructure strand that also supports **Session 1** (the
+support roles and committees that keep NIME running) and **Session 3**
+(community-led initiatives that became real). There is no single proceedings
+paper on hosting NIME, so this collects first-hand reflections, official
+guidance, and community discussion from previous organisers. Several sources are
+by workshop facilitators (Charles Martin, Fabio Morreale).
 
 ## First-hand host retrospectives
 
@@ -37,6 +39,30 @@ Martin, Fabio Morreale).
   economically diverse community). The thread also discusses hub-based,
   lower-carbon conference models and their trade-offs (with Alex McLean / yaxu).
   <https://forum.nime.org/t/note-on-future-nimes/344>
+
+## NIME organisation & back-end workshops (a lineage)
+
+A series of community workshops, led by Alexander Refsum Jensenius and
+collaborators, worked on NIME's back-end: how the community publishes, archives,
+and shares its diverse outputs (papers, code, hardware, performances). A good
+model for Session 3 of *how an initiative is launched and maintained* over years,
+and useful background for the proceedings/archive roles in Session 1.
+
+- **NIMEHub** (2016) — the start of the lineage; explored a shared repository
+  for NIME outputs. Referenced as prior work in the later posts below.
+- **Alexander Refsum Jensenius — "Workshop: Open NIME"** (7 Jun 2019, NIME 2019,
+  Porto Alegre) — with co-organisers from QMUL, NTNU, Aalborg, IRCAM, Virginia
+  Tech, Goldsmiths and UFRGS. On transparency and access: CC-BY licensing, open
+  peer review, repositories for code/data/performances (Zenodo, OSF), FAIR
+  principles, and NIME-specific platforms. Aimed at recommendations to pilot in
+  2020. <https://www.arj.no/2019/06/07/workshop-open-nime/>
+- **Alexander Refsum Jensenius — "NIME Publication Ecosystem Workshop"** (13 Aug
+  2020, online) — building on NIMEHub (2016) and Open NIME (2019): a publication
+  ecosystem spanning textual and non-textual outputs (hardware, code,
+  performances, installations), archival solutions, metadata/BibTeX, a possible
+  journal, and long-term maintainability for a volunteer community. Outcome: a
+  dedicated discussion thread on the NIME forum.
+  <https://www.arj.no/2020/08/13/nime-ecosystem/>
 
 ## Proceedings, format, and infrastructure
 
