@@ -49,6 +49,7 @@ title-slide-attributes:
 
 - TODO: continuity officer, proceedings officer, web, archives, ad-hoc initiatives
 - The archive is a community asset that someone maintains — and that we can study [@nime2021_1; @nime2022_16]
+- Community efforts to share + archive instruments and outputs go back years, e.g. NIMEhub [@nime2016_nimehub]
 
 ## Where do you see yourself? {background-image="img/nime2024-dinner-event.jpg" background-size="cover"}
 

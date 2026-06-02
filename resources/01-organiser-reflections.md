@@ -50,7 +50,7 @@ and useful background for the proceedings/archive roles in Session 1.
 
 - **NIMEhub: Toward a Repository for Sharing and Archiving Instrument Designs**
   (2016) — the start of the lineage. McPherson, Berdahl, Lyons, Jensenius,
-  Bukvic & Knudsen propose a community database for digital musical instrument
+  Bukvic & Knudson propose a community database for digital musical instrument
   designs, tackling reproducibility and the role of custom hardware. (Facilitator
   Andrew McPherson is lead author.) <http://hdl.handle.net/10919/106438>
 - **Alexander Refsum Jensenius — "Workshop: Open NIME"** (7 Jun 2019, NIME 2019,
