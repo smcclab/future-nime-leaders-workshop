@@ -15,7 +15,7 @@ title-slide-attributes:
 - TODO: framing — the missing parts of our community
 - New activities / roles / groups / resources that don't exist yet
 - Today's unknowns could become tomorrow's *core* NIME
-- NIME has been challenged to look outward and confront what it leaves out [@nime2020_31; @nime2020_83]
+- NIME has been challenged to look outward and confront what it leaves out [@nime2020_31; @nime2020_83; @hayes2020comj]
 
 ## A challenge from the keynote {background-image="img/nime2025-theatre-keynote.jpg" background-size="cover"}
 

@@ -52,6 +52,13 @@ by workshop facilitators (Charles Martin, Fabio Morreale).
   lower-carbon conference models and their trade-offs (with Alex McLean / yaxu).
   <https://forum.nime.org/t/note-on-future-nimes/344>
 
+## Directories & initiatives
+
+- **WiNIME — Women in NIME directory** — a public database of women authors in
+  NIME, useful for finding panellists, keynote speakers, committee members,
+  reviewers, and advisory-board candidates. Grew out of Xambó's work on gender
+  balance [@nime2018_Xambó]. <https://annaxambo.me/directory-of-winime/>
+
 ## NIME organisation & back-end workshops (a lineage)
 
 A series of community workshops, led by Alexander Refsum Jensenius and
