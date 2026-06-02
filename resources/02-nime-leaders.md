@@ -68,7 +68,7 @@ co-chairs"). Verified personal/lab URLs are linked inline.
 | 2019 | Porto Alegre, Brazil (UFRGS) | Rodrigo Schramm, Marcelo Johann |
 | 2020 | Birmingham, UK (Birmingham City Univ.; online) | Lamberto Coccioli, Sally Jane Norman |
 | 2021 | Shanghai, China (NYU Shanghai) | Margaret Minsky, Gus Xia |
-| 2022 | Auckland, New Zealand (Univ. of Auckland) | Sasha Leitman, [Fabio Morreale](https://fabio.kiwi/) |
+| 2022 | Auckland, New Zealand (Univ. of Auckland) | [Sasha Leitman](https://sashaleitman.com/), [Fabio Morreale](https://fabio.kiwi/) |
 | 2023 | Mexico City, Mexico (UAM / Tec de Monterrey) | Hugo Solís García, Eric Pérez Segura |
 | 2024 | Utrecht, Netherlands (HKU) | Hans Leeuw, Martijn Buser, Marije Baalman |
 | 2025 | Canberra, Australia (ANU) | [Charles Martin](https://charlesmartin.au/), [Pia van Gelder](https://piavangelder.com/) |
@@ -86,14 +86,27 @@ co-chairs"). Verified personal/lab URLs are linked inline.
 - **Georg Essl** — <https://sites.uwm.edu/essl/> — static profile; mobile music; NIME Advisory Board.
 - **Rebecca Fiebrink** — <https://www.arts.ac.uk/creative-computing-institute/people/rebecca-fiebrink> — institutional profile (no personal blog verified); creator of Wekinator (<http://www.wekinator.org/>).
 
-## Committees & initiatives (and their leaders)
+## Committees & officers
 
-- **NIME Board** — the governing body (replaced the Steering Committee); selects hosts/chairs and oversees committees. <https://nime.org/board/> — currently incl. Fabio Morreale (President), Juan Martinez Avila (Chair of Committees), Andrew McPherson (Continuity Officer), Stefano Fasciani (Proceedings Officer), Isabela Corintha Almeida (Member-at-large), Courtney N. Reed & Charles Martin (NIME 2026 / 2025 chairs).
-- **Diversity at NIME** — inclusive-conference resource and action space; runs mentorship and hosts WiNIME / LATAM activities. <https://diversity.nime.org/>
-- **WiNIME (Women in NIME)** — directory of women in NIME for sourcing speakers, committee members and reviewers; led by Anna Xambó. <https://annaxambo.me/directory-of-winime/>
-- **Ethics Committee** — maintains the NIME Principles & Code of Practice on Ethical Research. <https://www.nime.org/ethics/>
-- **Eco / Environment (ECO_NIME)** — the NIME environmental statement and Eco Wiki; environmental officers John Sullivan, Raul Masu, Adam Pultz Melbye. Wiki: <https://eco.nime.org/> · statement: <https://nime.org/environment/>
-- **LATAM NIME (Latin American NIME Network)** — regional community, resources and events; founders incl. Juan Martinez Avila, João Tragtenberg, Filipe Calegario, Isabela Corintha, Adnan Marquez-Borbon, Miguel Ortiz, Hugo Solís and others. <https://latam.nime.org/>
+The **NIME Board** is the governing body (it took over from the Steering Committee
+on 17 April 2024); it selects hosts/chairs and oversees the committees.
+<https://nime.org/board/> — currently incl. Fabio Morreale (President), Juan
+Martinez Avila (Chair of Committees), Andrew McPherson (Continuity Officer),
+Stefano Fasciani (Proceedings Officer), Isabela Corintha Almeida (Member-at-large),
+Courtney N. Reed & Charles Martin (NIME 2026 / 2025 chairs).
+
+Current committee leadership, per the official [committees page](https://nime.org/committees/)
+(a good place to see who to contact — and where help is wanted):
+
+- **Ethics Committee** — *lead* Kerem Ergener; members Natalia Fuchs, Doga Cavdir. Maintains the NIME Principles & Code of Practice on Ethical Research (<https://nime.org/ethics/>).
+- **Diversity Committee** — *co-leads* Courtney Reed & João Tragtenberg; members Andrew McMillan, Yichen Wang, Zeynep Ozcan. <https://diversity.nime.org/>
+- **Environmental Committee** — *lead* Raul Masu; members Ha-Moon Young, Florent Berthaut, Benedict Gaster. Eco Wiki: <https://eco.nime.org/> · statement: <https://nime.org/environment/>
+- **WiNIME Committee** — *lead* Isabela Corintha; members Aida Khorsandi, Eleni-Ira Panourgia. The Women-in-NIME directory itself is maintained by Anna Xambó: <https://annaxambo.me/directory-of-winime/>
+- **LATAM NIME Committee** — *co-leads* João Tragtenberg & Alvaro Lopez. <https://latam.nime.org/>
+
+Officers: **Mailing list** — Andrew Johnston (lead), Michael Lyons, Tom Mitchell ·
+**Forum** — S. Astrid Bin · **Mentorship** — Kerem Ergener (lead), Doga Cavdir ·
+**Sponsorship** — currently unfilled.
 
 See also [organiser reflections](01-organiser-reflections.html) for first-hand
 writing by several of the people above.
