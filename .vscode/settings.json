@@ -1,0 +1,14 @@
+{
+  "emeraldwalk.runonsave": {
+
+    "commands": [
+      {
+        // Run whenever a markdown file is saved
+        // Just builds html, not pdf to save time when editing.
+        "match": ".md",
+        "cmd": "make html"
+      }
+    ]
+  },
+  "liveServer.settings.root": "/build"
+}

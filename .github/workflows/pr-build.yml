@@ -1,0 +1,61 @@
+name: PR Build Check
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
+    container:
+      image: pandoc/latex:3.9
+      options: --user root
+
+    steps:
+      - name: Install Alpine Dependencies
+        run: apk add --no-cache bash git python3 py3-pip py3-yaml make
+
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Mark workspace as git safe directory
+        run: git config --global --add safe.directory "$GITHUB_WORKSPACE"
+
+      - name: Install Latex Dependencies
+        run: |
+          tlmgr update --self
+          tlmgr install libertine \
+                  sourcecodepro \
+                  ly1 \
+                  sectsty \
+                  lastpage \
+                  hanging \
+                  beamer \
+                  beamertheme-metropolis \
+                  pgfopts \
+                  beamercolorthemeowl \
+                  noto \
+                  noto-emoji
+
+      - name: Install Dart Sass
+        run: |
+          wget -O dart-sass.tar.gz https://github.com/sass/dart-sass/releases/download/1.89.2/dart-sass-1.89.2-linux-x64-musl.tar.gz
+          tar -xzf dart-sass.tar.gz -C /usr/local/
+          echo "/usr/local/dart-sass" >> $GITHUB_PATH
+          rm dart-sass.tar.gz
+          /usr/local/dart-sass/sass --version
+
+      - name: Build public documents
+        run: |
+          make public
+
+      - name: Upload build artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: build
+          path: ./build
+          retention-days: 7
