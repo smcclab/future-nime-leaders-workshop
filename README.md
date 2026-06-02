@@ -31,12 +31,12 @@ This repo contains the workshop materials for the NIME leaders workshop, which i
 
 By the end of this workshop, participants will be able to:
 
-1. **Describe how NIME is organised** — identify the main roles and bodies (board, committees, conference chairs, meta-reviewers/reviewers, forum moderators, and other volunteer roles) and explain how they connect. *(Session 1)*
-2. **Locate themselves in the community** — articulate one or more leadership roles that fit their interests, skills, and career stage, and name what they would bring and what support they would need. *(Session 1)*
-3. **Outline a feasible NIME conference proposal** — use the NIME hosting proposal template and cookbook to sketch the key elements (theme, venue, dates, budget, committee, accessibility) within realistic constraints. *(Session 2)*
-4. **Recognise the realities of hosting** — distinguish common misconceptions from the actual demands and existing support around finance, bureaucracy, space, and resources. *(Session 2)*
-5. **Generate and critique a new NIME initiative** — produce candidate activities, roles, or resources, evaluate which can and should be made real, and define a concrete first step. *(Session 3)*
-6. **Connect to the community beyond the conference** — have a NIME forum account and belong to the `future-leaders` group, with a path to ongoing involvement. *(All sessions / wrap-up)*
+1. **Understand how NIME is organised:** know the main roles and bodies (board, committees, conference chairs, meta-reviewers/reviewers, forum moderators, and other volunteer roles). *(Session 1)*
+2. **Locate themselves in the community:** articulate one or more leadership roles that fit their interests, skills, and career stage. Name what they would bring and what support they would need. *(Session 1)*
+3. **Outline a feasible NIME conference proposal:** use the NIME hosting template and cookbook to sketch the key elements (theme, venue, dates, budget, committee, accessibility) within realistic constraints. *(Session 2)*
+4. **Recognise the realities of hosting:** distinguish common misconceptions from the actual demands and existing support around finance, bureaucracy, space, and resources. *(Session 2)*
+5. **Generate and critique a new NIME initiative:** produce candidate activities, roles, or resources, evaluate which can and should be made real, and define a concrete first step. *(Session 3)*
+6. **Connect to the community beyond the conference** — have a NIME forum account and belong to the `future-leaders` group, with a path to ongoing involvement. *(All sessions)*
 
 ## Template Information
 
