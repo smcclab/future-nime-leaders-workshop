@@ -5,8 +5,9 @@ author: NIME Leaders Workshop Facilitators
 
 <!-- OUTLINE ONLY — overall facilitator run-sheet tying the three sessions together. -->
 
-Master timing plan for the 3-hour workshop (flexible — adjust to the slot the
-workshop chairs assign). Per-session detail lives in the numbered class plans.
+Master timing plan for the workshop. Confirmed slot: **NIME 2026, Tuesday 23 June
+2026, afternoon 2:00pm–6:00pm (4 hours), Room 206.** Per-session detail lives in
+the numbered class plans.
 
 ## Before the day
 
@@ -15,16 +16,17 @@ workshop chairs assign). Per-session detail lives in the numbered class plans.
 - TODO: assign facilitators to sessions / tables
 - TODO: pre-share any links (forum, template, cookbook) with registered participants
 
-## Timing overview (3 hours)
+## Timing overview (2:00pm–6:00pm, 4 hours)
 
 | Time | Block | Lead | Notes |
 |---|---|---|---|
-| 0:00–0:20 | Welcome + icebreaker | TODO | `lectures/00-welcome` |
-| 0:20–1:00 | S1 — NIME organisation | TODO | `workshops/01-nime-organisation` |
-| 1:00–1:10 | Break | — | |
-| 1:10–2:00 | S2 — Propose a NIME | TODO | `workshops/02-propose-a-nime` |
-| 2:00–2:50 | S3 — Co-design initiatives | TODO | `workshops/03-codesign-initiatives` |
-| 2:50–3:00 | Wrap-up + commitments | TODO | forum signup, next steps |
+| 2:00–2:25 | Welcome + icebreaker | TODO | `lectures/00-welcome` |
+| 2:25–3:15 | S1 — NIME organisation | TODO | `workshops/01-nime-organisation` |
+| 3:15–3:25 | Break | — | |
+| 3:25–4:25 | S2 — Propose a NIME | TODO | `workshops/02-propose-a-nime` (plan a NIME in an hour) |
+| 4:25–4:35 | Break | — | |
+| 4:35–5:45 | S3 — Co-design initiatives | TODO | `workshops/03-codesign-initiatives` |
+| 5:45–6:00 | Wrap-up + commitments | TODO | forum signup, next steps |
 
 ## Wrap-up checklist
 

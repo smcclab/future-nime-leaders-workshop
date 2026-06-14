@@ -1,4 +1,27 @@
 title = "NIME Future Leaders Workshop"
-institution = "New Interfaces for Musical Expression"
+institution = "NIME 2026 Workshops, 23 June 2026."
 author = "Charles Patrick Martin, Stefano Fasciani, Juan Martinez Avila, Fabio Morreale, Andrew McPherson, Courtney N. Reed, Pia van Gelder, Yichen Wang, Doga Cavdir"
 year = "2026"
+
+# Optional free-text shown on the index page. Use a multi-line string;
+# blank lines start a new paragraph.
+abstract = """
+This workshop aims to surface future NIME leaders. We will introduce participants
+to the practicalities of organising NIME and in-between NIME activities, and
+co-design future NIME initiatives and conference plans. We interpret NIME leaders
+broadly and inclusively to mean anybody who is ready, now or in the future, to
+contribute to our community beyond conference submissions and reviews — from
+metareviewing, leading initiatives, and moderating the forum, to hosting a future
+NIME, running for the board, or imagining activities nobody has thought of before.
+
+We are looking for future leaders with energy and enthusiasm at all career stages
+and from all backgrounds, and our facilitators include former NIME chairs and
+members of the NIME board. Be careful about walking in the door — you will very
+likely walk out with a new job (and a lot of new friends)!
+"""
+
+# Optional representative image for the index page. The path is relative to the
+# build directory, so point it at an image that the build copies into build/,
+# e.g. one under lectures/img/ (-> "lectures/img/your-image.jpg").
+image = "lectures/img/nime-leaders-workshop.jpg"
+image_alt = "Pia and Charles presenting at the NIME 2025 town hall. This could be you!"

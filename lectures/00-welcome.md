@@ -30,7 +30,15 @@ title-slide-attributes:
 
 ## Today's plan {background-image="img/nime-town-hall.jpg" background-size="cover"}
 
-- TODO: agenda slide with timings (welcome / S1 / break / S2 / S3 / wrap-up)
+Tuesday 23 June 2026, afternoon session, 2:00pm–6:00pm, Room 206:
+
+- 2:00 — Welcome + icebreaker
+- 2:25 — S1: NIME organisation
+- 3:15 — Break
+- 3:25 — S2: Propose a NIME (in an hour!)
+- 4:25 — Break
+- 4:35 — S3: Co-design initiatives
+- 5:45 — Wrap-up + commitments
 
 ## Learning outcomes
 
@@ -47,4 +55,5 @@ title-slide-attributes:
 
 ## Ground rules / housekeeping
 
-- TODO: rooms, breaks, materials on tables, how questions work
+- We're in Room 206 for the full afternoon (2pm–6pm); two short breaks (~3:15 and ~4:25)
+- TODO: materials on tables, how questions work

@@ -29,6 +29,10 @@ def generate_index(info: dict, base_path: Path) -> str:
     title = info["title"]
     institution = info["institution"]
     author = info["author"]
+    # Optional free-text abstract and representative image (see _config.toml).
+    abstract = info.get("abstract", "")
+    image = info.get("image", "")
+    image_alt = info.get("image_alt", "")
     html = f"""<!DOCTYPE html>
 <html>
 <head>
@@ -39,6 +43,8 @@ def generate_index(info: dict, base_path: Path) -> str:
         ol {{ line-height: 1.6; }}
         a {{ color: #66b3ff; text-decoration: none;}}
         a:hover {{ text-decoration: underline; color: #99ccff;}}
+        .index-image {{ max-width: 100%; height: auto; margin: 1em 0; border-radius: 4px; }}
+        .index-abstract {{ line-height: 1.6; }}
     </style>
 </head>
 <body>
@@ -46,13 +52,30 @@ def generate_index(info: dict, base_path: Path) -> str:
     <h3>{author}</h3>
     <h3>{institution}</h3>
 """
-    
+
+    # Representative image, if specified. Path is relative to the build directory
+    # (e.g. "lectures/img/title.jpg"); warn but continue if the file is missing.
+    if image:
+        if not (base_path / image).exists():
+            print(f"Warning: index image '{image}' not found in {base_path}")
+        html += f'    <img class="index-image" src="{image}" alt="{image_alt}">\n'
+
+    # Free-text abstract, if specified. Blank lines separate paragraphs.
+    if abstract:
+        for paragraph in re.split(r'\n\s*\n', abstract.strip()):
+            paragraph = re.sub(r'\s+', ' ', paragraph).strip()
+            html += f'    <p class="index-abstract">{paragraph}</p>\n'
+
     # subdirectories of the base_path are the headings.
     subdirectories = [item for item in base_path.iterdir() if item.is_dir()]
     for dir in sorted(subdirectories):
         dir_name = dir.name
         print(f"Processing directory: {dir_name}")
         html_files = list(dir.rglob('*.html'))
+        # Skip categories with no html files: suppress the heading and list entirely.
+        if not html_files:
+            print(f"  No HTML files found, skipping heading for: {dir_name}")
+            continue
         html += f'    <h4>{dir_name}</h4>\n'
 
         # html files contained within dir are the list items.
