@@ -57,7 +57,14 @@ jobs:
 
       - name: Install Latex Dependencies
         run: |
-          tlmgr update --self
+          # The pandoc/latex image ships a frozen TeX Live release. Once CTAN's
+          # live tlnet repository rolls over to a newer TeX Live year, tlmgr
+          # refuses to install against it ("tlmgr itself needs to be updated").
+          # Pin tlmgr to this image's own frozen historic archive so installs
+          # keep working across the annual rollover.
+          TL_YEAR=$(tlmgr --version | sed -n 's/.*version \([0-9]\{4\}\).*/\1/p' | head -1)
+          if [ -z "$TL_YEAR" ]; then echo "Could not determine TeX Live year"; exit 1; fi
+          tlmgr option repository "https://ftp.math.utah.edu/pub/tex/historic/systems/texlive/${TL_YEAR}/tlnet-final"
           tlmgr install libertine \
                   sourcecodepro \
                   ly1 \
