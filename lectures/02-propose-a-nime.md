@@ -15,16 +15,14 @@ title-slide-attributes:
 - Plan a NIME in an hour (seriously)
 - Not a dream conference — what could you *actually* run with the resources you have?
 
-## The tools you have
-
-::: {.info-box}
-**Resources:** TODO — link the hosting proposal template and the NIME cookbook (see resources page).
-:::
+### The tools you have
 
 - [NIME hosting proposal template](https://github.com/NIME-conference/nime-hosting-proposal-template/blob/main/proposal-template.md)
 - [NIME cookbook](https://nime-conference.github.io/NIME-cookbook/)
 
 ## What goes in a proposal
+
+<https://github.com/NIME-conference/nime-hosting-proposal-template>
 
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
@@ -52,13 +50,12 @@ title-slide-attributes:
 Hosting is more achievable than it looks, once you know where the money and the work really go.
 
 ::: {.info-box}
-**"Sponsors and grants pay for it."** Mostly, it's registrations.
+**"Sponsors and grants pay for it."** Nope. It's mostly registrations.
 :::
 
 - **"Most pay full price."** Most register at concession rates: NIME is largely student authors.
-- **"Conferences lose money."** NIME2025 turned a profit, on owned venues and volunteers.
 - **"The work ends when the conference starts."** Music, proceedings, and hybrid all peak during the event.
-- **"NIME needs a concert hall."** It's run in rehearsal rooms, clubs, theatres, lecture halls, classrooms, foyers, and galleries.
+- **"NIME needs a huge concert hall."** It's run in rehearsal rooms, clubs, theatres, lecture halls, classrooms, foyers, and galleries. If people can hear the sound and see the screen, the venue is probably good enough.
 
 ## The realities {background-image="img/nime2025-streaming-rig.jpg" background-size="cover"}
 
@@ -72,7 +69,27 @@ The same facts as planning principles:
 ## Now it's your turn
 
 ::: {.activity}
-**Plan a NIME:** TODO — hand off to the class-plan activity. Groups draft a proposal sketch against the template. ~Xm
+**Plan a NIME:** Start planning your NIME with the resources you (or your group) have. Fill in a post-it for each point in the proposal list:
 :::
+
+:::::::::::::: {.columns}
+::: {.column width="60%"}
+
+1. Host Institution
+2. General Chairs
+3. Proposed Theme
+4. Venue
+5. Dates
+
+:::
+::: {.column width="40%"}
+
+6. Other Chairs
+7. Sustainability
+8. Diversity and Accessibility
+9. Budget
+10. Local Support
+:::
+::::::::::::::
 
 ## References
