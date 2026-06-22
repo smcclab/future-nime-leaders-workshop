@@ -1,9 +1,7 @@
 ---
-title: "Session 3 — Co-Designing Unknown NIME Initiatives"
+title: "Session 3: Co-Designing Unknown NIME Initiatives"
 author: NIME Leaders Workshop Facilitators
 ---
-
-<!-- OUTLINE ONLY — class plan stubs + timings. Fill detail once shape is agreed. -->
 
 ## Goals
 
@@ -13,37 +11,40 @@ author: NIME Leaders Workshop Facilitators
 
 ## Materials
 
-- TODO: design-prompt cards; sticky notes; large sheets per table
-- TODO: the three keynote questions displayed (abandon / launch / maintain)
+- Sticky notes and sharpies
+- A large sheet or whiteboard per group (for the 2x2 grid)
+- The three keynote questions displayed (abandon / launch / maintain)
 
-## Plan for the session (~50m)
+## Plan for the session (~30m)
 
-1. Framing + Cooper's three questions (`lectures/03-codesign-initiatives`) (~Xm)
-2. Diverge: ideation exercise (~Xm)
-3. Converge: critique + choose what to make real (~Xm)
-4. Commit: name a first step (~Xm)
+1. Framing + Cooper's three questions (`lectures/03-codesign-initiatives`)
+2. Diverge: ideation (~8m)
+3. Converge: critique + choose (~7m)
+4. Commit: name a first step (~5m)
 
 ## Activities
 
 ### Activity 1: Diverge (ideation)
 
-- TODO: design prompts to generate missing initiatives
+- Warm up: worst possible NIME, then flip the best-worst into something real
+- Brainwriting on the three questions: one idea per note, silent first, then build on each other
 - Sort against: gleefully abandon / boldly launch / lovingly maintain
 
 ### Activity 2: Converge (critique + choose)
 
-- TODO: each group selects 1–2 ideas that can and *should* be real
-- Pressure-test: who's it for, what's needed, what could go wrong
+- Plot ideas on a 2x2 grid: impact against effort
+- Pressure-test the leaders: who's it for, what's needed, what could go wrong
+- Each group selects 1-2 ideas that can and *should* be real
 
 ### Activity 3: Commit (mandate + first step)
 
-- TODO: turn the chosen idea into a smallest-viable first action + owner
+- Turn the chosen idea into a smallest-viable first action + owner
 - Capture commitments for follow-up (links to wrap-up + forum group)
 
 ## Facilitator notes
 
-- TODO: keep ideation open before steering to feasibility
-- Capture ideas even if no one commits — feed back to the board / committees
+- Keep ideation open before steering to feasibility
+- Capture ideas even if no one commits, and feed them back to the board / committees
 
 ## Background reading
 

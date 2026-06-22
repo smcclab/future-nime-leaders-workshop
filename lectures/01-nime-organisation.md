@@ -148,4 +148,12 @@ Reviewing is an act of *caring* (for authors and the community).
 **Talk:** Which role(s) interest you now / in future? What would you bring?
 :::
 
+## Share back
+
+::: {.talk-box}
+**Share:** each table, name one role you're drawn to and one barrier in the way.
+:::
+
+- Facilitators respond: demystify the role, name the support that already exists
+
 ## References

@@ -3,38 +3,30 @@ title: "Workshop Run-Sheet"
 author: NIME Leaders Workshop Facilitators
 ---
 
-<!-- OUTLINE ONLY — overall facilitator run-sheet tying the three sessions together. -->
-
-Master timing plan for the workshop. Confirmed slot: **NIME 2026, Tuesday 23 June
-2026, afternoon 2:00pm–6:00pm (4 hours), Room 206.** Per-session detail lives in
-the numbered class plans.
+Master timing plan for the workshop. Confirmed slot: **NIME 2026, Tuesday 23 June 2026, afternoon 2:00pm-6:00pm, Room 206.** Per-session detail lives in the numbered class plans.
 
 ## Before the day
 
-- TODO: room set-up (tables for small groups, projector tested)
-- TODO: materials (printed proposal-template summaries, sticky notes, markers, name tags)
-- TODO: assign facilitators to sessions / tables
-- TODO: pre-share any links (forum, template, cookbook) with registered participants
+- Room set-up: tables for small groups, projector tested
+- Materials: printed proposal-template summaries, sticky notes, sharpies, name tags
+- Assign facilitators to sessions and tables
+- Pre-share links (forum, template, cookbook) with registered participants
 
-## Timing overview (2:00pm–6:00pm, 4 hours)
+## Timing overview (2:00pm-6:00pm)
 
 | Time | Block | Notes |
-|---|---|---|
-| 2:00–2:20 | Welcome + icebreaker | `lectures/00-welcome` |
-| 2:20–3:10 | S1 — NIME organisation | `workshops/01-nime-organisation` |
-| 3:10–3:20 | Break | — |
-| 3:20–4:20 | S2 — Propose a NIME | `workshops/02-propose-a-nime` (plan a NIME in an hour) |
-| 4:20–4:30 | Break | — |
-| 4:30–5:10 | S3 — Co-design initiatives | `workshops/03-codesign-initiatives` |
-| 5:00–6:00 | Wrap-up + commitments | forum signup, next steps |
+| --- | --- | --- |
+| 2:00-2:20 | Welcome + icebreaker | `lectures/00-welcome` |
+| 2:20-3:10 | S1: NIME organisation | `workshops/01-nime-organisation` |
+| 3:10-3:20 | Break | |
+| 3:20-4:20 | S2: Propose a NIME | `workshops/02-propose-a-nime` (plan a NIME in an hour) |
+| 4:20-4:30 | Break | |
+| 4:30-5:00 | S3: Co-design initiatives | `workshops/03-codesign-initiatives` |
+| 5:00-5:30 | Wrap-up + commitments | forum signup, next steps |
+| 5:30 | End | head to the welcome reception |
 
 ## Wrap-up checklist
 
-- TODO: collect commitments / ideas to follow up
-- TODO: everyone joined forum `future-leaders` group
-- TODO: how facilitators stay in touch with participants afterwards
-
-## Items I need
-
-- post its
-- sharpies
+- Collect commitments and ideas to follow up
+- Everyone joined the forum [`future-leaders` group](https://forum.nime.org/g/future-leaders)
+- Agree how facilitators stay in touch with participants afterwards

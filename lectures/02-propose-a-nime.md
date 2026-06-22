@@ -92,4 +92,12 @@ The same facts as planning principles:
 :::
 ::::::::::::::
 
+## Pitch it back
+
+::: {.activity}
+**Pitch (2m each):** present your NIME to the room: theme, venue, dates, and how it pays for itself.
+:::
+
+- Former chairs reality-check against misconceptions, hidden supports, surprising constraints
+
 ## References

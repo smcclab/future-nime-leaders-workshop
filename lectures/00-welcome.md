@@ -35,7 +35,7 @@ Who is here today?
 
 ## Today's plan {background-image="img/nime-town-hall.jpg" background-size="cover"}
 
-Tuesday 23 June 2026, afternoon session, 2:00pm---6:00pm, Room 206:
+Tuesday 23 June 2026, afternoon session, 2:00pm to 6:00pm, Room 206:
 
 - 2:00 Welcome + icebreaker
 - 2:20 S1: NIME organisation
@@ -51,7 +51,7 @@ Tuesday 23 June 2026, afternoon session, 2:00pm---6:00pm, Room 206:
 - Identify NIME roles + a pathway that fits you
 - Outline a creative conference proposal
 - Generate, critique, and commit to a new initiative
-- Join the NIME forum `future-leaders` group
+- Join the NIME forum [`future-leaders` group](https://forum.nime.org/g/future-leaders)
 
 ## Icebreaker
 

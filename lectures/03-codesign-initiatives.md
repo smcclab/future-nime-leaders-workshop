@@ -48,6 +48,7 @@ What are the missing parts of our community? NIME is dominated by what we *do*, 
 
 - **Can** it be made real? Low effort, feasible.
 - **Should** it be made real? High impact.
+- Pressure-test the leaders: who's it for? what's needed? what could go wrong?
 - High-impact + low-effort = do it!
 
 ## Making it real
@@ -67,7 +68,7 @@ What are the missing parts of our community? NIME is dominated by what we *do*, 
 **Share:** each group, one sentence: what will you launch, and your first step?
 :::
 
-- Take it to the forum: join the `future-leaders` group on [forum.nime.org](https://forum.nime.org)
+- Take it to the forum: join the [`future-leaders` group](https://forum.nime.org/g/future-leaders) on [forum.nime.org](https://forum.nime.org/g/future-leaders)
 
 Thanks for joining us at the (first) future NIME leaders workshop! This was a new idea in January and now it's real!
 
