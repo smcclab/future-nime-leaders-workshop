@@ -51,7 +51,7 @@ What are the missing parts of our community? NIME is dominated by what we *do*, 
 - Pressure-test the leaders: who's it for? what's needed? what could go wrong?
 - High-impact + low-effort = do it!
 
-## Making it real
+## Making it real {background-image="img/nime2018-installation.jpg" background-size="cover"}
 
 ::: {.activity}
 **Commit (~5m):** turn your chosen idea into a one-line pitch + a mandate + a first step.

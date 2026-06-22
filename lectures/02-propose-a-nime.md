@@ -66,7 +66,7 @@ The same facts as planning principles:
 - **Resources**: staff each phase with fresh people. No chair can sprint for six months, so name someone for music, proceedings, and hybrid.
 - **Support**: a motivated local team and institutional backing make it feasible.
 
-## Now it's your turn
+## Now it's your turn {background-image="img/nime2024-workshop.jpg" background-size="cover"}
 
 ::: {.activity}
 **Plan a NIME:** Start planning your NIME with the resources you (or your group) have. Fill in a post-it for each point in the proposal list:
@@ -75,24 +75,24 @@ The same facts as planning principles:
 :::::::::::::: {.columns}
 ::: {.column width="60%"}
 
-1. Host Institution
-2. General Chairs
-3. Proposed Theme
-4. Venue
-5. Dates
+- Host Institution
+- General Chairs
+- Proposed Theme
+- Venue
+- Dates
 
 :::
 ::: {.column width="40%"}
 
-6. Other Chairs
-7. Sustainability
-8. Diversity and Accessibility
-9. Budget
-10. Local Support
+- Other Chairs
+- Sustainability
+- Diversity and Accessibility
+- Budget
+- Local Support
 :::
 ::::::::::::::
 
-## Pitch it back
+## Pitch it back {background-image="img/nime2024-theatre.jpg" background-size="cover"}
 
 ::: {.activity}
 **Pitch (2m each):** present your NIME to the room: theme, venue, dates, and how it pays for itself.

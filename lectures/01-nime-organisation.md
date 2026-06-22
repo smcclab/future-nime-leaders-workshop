@@ -32,22 +32,51 @@ There's lots of ways to contribute, but getting started usually means starting t
 
 ## The NIME board
 
-- Decision making and governing
+:::::::::::::: {.columns}
+::: {.column width="50%"}
+
+What it does:
+
+- Decision-making and governing
 - Ensure the conference happens
 - Ensure the proceedings are available
-- Help resolve issues and support committees
-- Join up: be a general chair of NIME **or** nominate for elected roles.
-- Work looks like: online board meetings and email decisions.
+- Support committees + engage an Advisory Group
+- Work: online meetings + email decisions
 
-*Work in progress!* The NIME board is relatively NEW (est. 2023). Open to new ideas and ways of working.
+:::
+::: {.column width="50%"}
+
+Roles (mostly elected):
+
+- President, Chief of Committees
+- Proceedings + Continuity Officers
+- Member(s)-at-large
+- General Chairs (join via a hosting bid)
+
+Join up: nominate or vote if you've attended 1 of the last 5 NIMEs.
+
+:::
+::::::::::::::
+
+*Work in progress!* The [NIME board](https://nime.org/board/) is relatively NEW (est. 2023); several seats are held by facilitators here today.
 
 ## NIME committees
 
-- Ethics, Diversity, Environmental, WiNIME, LATAM
+- [Ethics](https://nime.org/ethics/), [Diversity](https://diversity.nime.org/), [Environmental](https://nime.org/environment/), WiNIME, LATAM
 - Representing specific interests and efforts for influencing NIME for the better
-- Join up: just ask the committee lead
+- Join up: just ask the [committee lead](https://nime.org/committees/)
 - Work looks like: emails and online meetings, help making decisions (esp. ethics committee).
 - Committees often start as research and advocacy: e.g., WiNIME grew from work on gender balance [@nime2018_Xambó]
+
+## Officers
+
+Roles that keep NIME running between conferences:
+
+- Mailing list + forum officers
+- Mentorship Program
+- Sponsorship (currently unfilled, an open role!)
+
+Join up: see the [committees & officers](https://nime.org/committees/) list and ask.
 
 ## The forum & mailing list
 
@@ -66,7 +95,7 @@ Needs more activity!
 :::
 ::: {.column width="50%"}
 
-### NIME Mailing list
+### [NIME Mailing list](https://nime.org/mailinglist/)
 
 - Google group
 - Traditional email mailing list
@@ -90,23 +119,24 @@ Needs more activity!
 - Poster/Demo Chairs
 - alt.nime Chairs
 - Workshop Chairs
+- Doctoral Consortium Chairs
 
 :::
 ::: {.column width="50%"}
 
 ### Supporting Chairs
 
-- Accessibility Chairs
-- Doctoral Consortium Chairs
-- Volunteer Chairs
-- Web/Social Chairs
+- Hybrid
+- Accessibility
+- Student Volunteer
+- Web/Social
 
 ### We Need Chairs
 
-- Hard work, but rewarding, more chairs = less burn out.
-- Need for people to acquire and build skills with CMT (Conference Management Toolkit)
+- Hard but rewarding
+- Skills with CMT (Conference Management Toolkit)
 - Need for champions for initiatives like alt.nime
-- Need for folks to help *record* what happens in NIME (forum, blogs, etc)
+- Need help *recording* on blogs/forum.
 
 :::
 ::::::::::::::
@@ -148,7 +178,7 @@ Reviewing is an act of *caring* (for authors and the community).
 **Talk:** Which role(s) interest you now / in future? What would you bring?
 :::
 
-## Share back
+## Share back {background-image="img/nime2016-foyer.jpg" background-size="cover"}
 
 ::: {.talk-box}
 **Share:** each table, name one role you're drawn to and one barrier in the way.

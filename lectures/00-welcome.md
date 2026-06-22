@@ -14,7 +14,7 @@ title-slide-attributes:
 - The goal for today: surfacing future NIME leaders, empowering you with knowledge and license to help!
 - Leadership defined broadly: work beyond the basics (submissions + reviews)
 
-## Meet your facilitators
+## Meet your facilitators {background-image="img/nime2024-club.jpg" background-size="cover"}
 
 Who is here today?
 
