@@ -37,7 +37,7 @@ There's lots of ways to contribute, but getting started usually means starting t
 - Ensure the proceedings are available
 - Help resolve issues and support committees
 - Join up: be a general chair of NIME **or** nominate for elected roles.
-- Work looks like: online board meetings and email decisions. 
+- Work looks like: online board meetings and email decisions.
 
 *Work in progress!* The NIME board is relatively NEW (est. 2023). Open to new ideas and ways of working.
 
@@ -92,7 +92,7 @@ Needs more activity!
 - Workshop Chairs
 
 :::
-::: {.column width=50%"}
+::: {.column width="50%"}
 
 ### Supporting Chairs
 

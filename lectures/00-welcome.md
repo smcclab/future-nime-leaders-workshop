@@ -16,18 +16,16 @@ title-slide-attributes:
 
 ## Meet your facilitators
 
-<!-- TODO: insert websites -->
-
 Who is here today?
 
 - [Charles Martin](https://charlesmartin.au) (NIME2025 GC)
-- [Stefano Fasciani]() (NIME proceedings officer)
-- [Jaun Martinez Avila]() (NIME committees officer)
-- [Fabio Morreale]() (NIME President)
-- [Courtney N Reed]() (NIME2026 GC)
-- [Pia van Gelder]() (NIME2025 GC)
-- [Yichen Wang]() (NIME2025 Poster/Demo Chair)
-- [Doga Cavdir]() (NIME2025 Paper Chair)
+- [Stefano Fasciani](https://stefanofasciani.com) (NIME proceedings officer)
+- [Juan Martinez Avila](https://www.nottingham.ac.uk/computerscience/people/j.avila) (NIME committees officer)
+- [Fabio Morreale](https://fabio.kiwi) (NIME President)
+- [Courtney N Reed](https://www.courtneynreed.com) (NIME2026 GC)
+- [Pia van Gelder](https://piavangelder.com) (NIME2025 GC)
+- [Yichen Wang](https://yichenwangs.github.io) (NIME2025 Poster/Demo Chair)
+- [Doga Buse Cavdir](https://www.dogacavdir.com) (NIME2025 Paper Chair)
 
 ## What we'll do today
 
@@ -46,6 +44,7 @@ Tuesday 23 June 2026, afternoon session, 2:00pm---6:00pm, Room 206:
 - 4:20 Break
 - 4:30 S3: Co-design initiatives
 - 5:00 Wrap-up + commitments
+- 5:30 end (go to welcome reception)
 
 ## Learning outcomes
 
@@ -59,4 +58,3 @@ Tuesday 23 June 2026, afternoon session, 2:00pm---6:00pm, Room 206:
 ::: {.activity}
 **Activity:** In groups, tell each other your name, where you are from, one thing you wish NIME had.
 :::
-

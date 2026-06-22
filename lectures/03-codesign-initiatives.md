@@ -6,8 +6,6 @@ title-slide-attributes:
   data-background-size: cover
 ---
 
-<!-- OUTLINE ONLY — slide structure + stubs. Fill prose once shape is agreed. -->
-
 # What's missing from NIME? {background-image="img/nime2025-installation.jpg" background-size="cover"}
 
 ## Speculating on the gaps
@@ -17,9 +15,9 @@ title-slide-attributes:
 - Today's unknowns could become tomorrow's *core* NIME
 - NIME has been challenged to look outward and confront what it leaves out [@nime2020_31; @nime2020_83; @hayes2020comj]
 
-## A challenge from the keynote {background-image="img/nime2025-theatre-keynote.jpg" background-size="cover"}
+## A challenge from the 2025 keynote {background-image="img/nime2025-theatre-keynote.jpg" background-size="cover"}
 
-- TODO: reference Clare Cooper's NIME 2025 keynote
+- Clare Cooper's NIME 2025 keynote challenged us to 
 - Three questions to hold throughout:
 
 ## The three questions
