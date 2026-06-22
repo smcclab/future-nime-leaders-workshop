@@ -94,7 +94,7 @@ Needs more activity!
 :::
 ::: {.column width=50%"}
 
-### Special Chairs
+### Supporting Chairs
 
 - Accessibility Chairs
 - Doctoral Consortium Chairs
