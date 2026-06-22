@@ -10,5 +10,6 @@
       }
     ]
   },
-  "liveServer.settings.root": "/build"
+  "liveServer.settings.root": "/build",
+  "makefile.configureOnOpen": false
 }
