@@ -26,7 +26,7 @@ the numbered class plans.
 | 3:20–4:20 | S2 — Propose a NIME | `workshops/02-propose-a-nime` (plan a NIME in an hour) |
 | 4:20–4:30 | Break | — |
 | 4:30–5:10 | S3 — Co-design initiatives | `workshops/03-codesign-initiatives` |
-| 5:10–6:00 | Wrap-up + commitments | forum signup, next steps |
+| 5:00–6:00 | Wrap-up + commitments | forum signup, next steps |
 
 ## Wrap-up checklist
 

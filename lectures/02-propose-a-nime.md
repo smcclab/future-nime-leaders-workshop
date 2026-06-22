@@ -6,20 +6,17 @@ title-slide-attributes:
   data-background-size: cover
 ---
 
-<!-- OUTLINE ONLY — slide structure + stubs. Fill prose once shape is agreed. -->
-
 # The provocation {background-image="img/nime2025-theatre-preparations.jpg" background-size="cover"}
 
-## A phone call…
+## A DM on the NIME forum...
 
-> *NIME president, Fabio Morreale, just called and YOU are running next year's NIME. You're up for it, but we need your proposal by tomorrow! What do you do?*
+> *NIME president, Fabio Morreale, just texted and YOU are running next year's NIME. You're up for it, but we need your proposal by tomorrow! What do you do?*
 
-- TODO: set the scene; today you plan a NIME in an hour (seriously)
+Plan for this session: Plan a NIME in an hour (seriously)
 
 ## The challenge
 
 - Not a dream conference — what could you *actually* run with the resources you have?
-- TODO: state the deliverable groups will produce
 
 ## The tools you have
 
