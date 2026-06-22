@@ -18,18 +18,23 @@ the numbered class plans.
 
 ## Timing overview (2:00pm–6:00pm, 4 hours)
 
-| Time | Block | Lead | Notes |
-|---|---|---|---|
-| 2:00–2:25 | Welcome + icebreaker | TODO | `lectures/00-welcome` |
-| 2:25–3:15 | S1 — NIME organisation | TODO | `workshops/01-nime-organisation` |
-| 3:15–3:25 | Break | — | |
-| 3:25–4:25 | S2 — Propose a NIME | TODO | `workshops/02-propose-a-nime` (plan a NIME in an hour) |
-| 4:25–4:35 | Break | — | |
-| 4:35–5:45 | S3 — Co-design initiatives | TODO | `workshops/03-codesign-initiatives` |
-| 5:45–6:00 | Wrap-up + commitments | TODO | forum signup, next steps |
+| Time | Block | Notes |
+|---|---|---|
+| 2:00–2:20 | Welcome + icebreaker | `lectures/00-welcome` |
+| 2:20–3:10 | S1 — NIME organisation | `workshops/01-nime-organisation` |
+| 3:10–3:20 | Break | — |
+| 3:20–4:20 | S2 — Propose a NIME | `workshops/02-propose-a-nime` (plan a NIME in an hour) |
+| 4:20–4:30 | Break | — |
+| 4:30–5:10 | S3 — Co-design initiatives | `workshops/03-codesign-initiatives` |
+| 5:10–6:00 | Wrap-up + commitments | forum signup, next steps |
 
 ## Wrap-up checklist
 
 - TODO: collect commitments / ideas to follow up
 - TODO: everyone joined forum `future-leaders` group
 - TODO: how facilitators stay in touch with participants afterwards
+
+## Items I need
+
+- post its
+- sharpies

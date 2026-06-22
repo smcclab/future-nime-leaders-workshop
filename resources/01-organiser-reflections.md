@@ -3,13 +3,11 @@ title: "Organiser Reflections — Hosting & Running NIME"
 author: NIME Leaders Workshop Facilitators
 ---
 
-Background reading mainly for **Session 2 — "So, you want to propose a NIME…"**,
-with a back-end/infrastructure strand that also supports **Session 1** (the
-support roles and committees that keep NIME running) and **Session 3**
-(community-led initiatives that became real). There is no single proceedings
+Background reading mainly for **"So, you want to propose a NIME…"**,
+with a back-end strand that also supports knowledge of the support roles
+support roles and committees and community-led initiatives. There is no single proceedings
 paper on hosting NIME, so this collects first-hand reflections, official
-guidance, and community discussion from previous organisers. Several sources are
-by workshop facilitators (Charles Martin, Fabio Morreale).
+guidance, and community discussion from previous organisers.
 
 ## First-hand host & chair reflections
 
