@@ -10,42 +10,65 @@ title-slide-attributes:
 
 ## Speculating on the gaps
 
-- TODO: framing — the missing parts of our community
+::: {.info-box}
+What are the missing parts of our community? NIME is dominated by what we *do*, but it's hard to imagine the impact what we don't do (yet).
+:::
+
 - New activities / roles / groups / resources that don't exist yet
 - Today's unknowns could become tomorrow's *core* NIME
 - NIME has been challenged to look outward and confront what it leaves out [@nime2020_31; @nime2020_83; @hayes2020comj]
 
 ## A challenge from the 2025 keynote {background-image="img/nime2025-theatre-keynote.jpg" background-size="cover"}
 
-- Clare Cooper's NIME 2025 keynote challenged us to 
-- Three questions to hold throughout:
+- Clare Cooper's NIME 2025 keynote challenged us to speculate on the possibilities and impacts of future NIMEs.
 
-## The three questions
+### The three questions
 
 - What shall we **gleefully abandon**?
 - What shall we **boldly launch**?
 - What shall we **lovingly maintain**?
 
-## Part 1 — Ideation (diverge)
+## Part 1: Ideation (diverge)
 
-::: {.activity}
-**Generate:** TODO — design prompts / ideation exercise. No bad ideas yet. ~Xm
+::: {.think-box}
+**Warm up (~1m):** worst possible NIME. Shout out deliberately *terrible* ideas, then flip the best-worst into something real.
 :::
 
-## Part 2 — Critique & choose (converge)
+::: {.activity}
+**Generate (~7m):** in groups, fill up sticky notes answering any of the three questions, one idea per note. Write silently first, then build on each other.
+:::
+
+- Stuck? Provocations: NIME with no conference / infinite budget / no screens / aeroplanes don't exist / paper length limit 100 words.
+
+## Part 2: Critique & choose (converge)
 
 ::: {.activity}
-**Decide:** TODO — which ideas can and *should* be made real? ~Xm
+**Decide (~7m):** plot your stickies on a 2x2 grid: *impact* (low to high) against *effort* (low to high).
 :::
+
+- **Can** it be made real? Low effort, feasible.
+- **Should** it be made real? High impact.
+- High-impact + low-effort = do it!
 
 ## Making it real
 
-- TODO: turn an idea into an idea + a mandate + a first step
-- Who, what, when — the smallest viable launch
-- It's been done before: the Eco committee + Eco Wiki [@nime2021_24] and WiNIME [@nime2018_Xambó] started exactly this way
+::: {.activity}
+**Commit (~5m):** turn your chosen idea into a one-line pitch + a mandate + a first step.
+:::
+
+- **Idea**: one sentence anyone could repeat
+- **Mandate**: under whose banner? Self-started, a committee, or ask the board
+- **First step**: smallest thing doable in a month, and *who* owns it
+- It's been done before: the Eco committee/wiki [@nime2021_24] and WiNIME [@nime2018_Xambó] started exactly this way
 
 ## Boldly launch {background-image="img/nime2017-stage.jpg" background-size="cover"}
 
-- TODO: closing — share commitments; connect to forum `future-leaders` group + wrap-up
+::: {.activity}
+**Share:** each group, one sentence: what will you launch, and your first step?
+:::
+
+- Take it to the forum: join the `future-leaders` group on [forum.nime.org](https://forum.nime.org)
+
+Thanks for joining us at the (first) future NIME leaders workshop! This was a new idea in January and now it's real!
 
 ## References
